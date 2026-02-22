@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sayali-moon">
     <img src="https://img.shields.io/badge/LinkedIn-Sayali%20Moon-blue?logo=linkedin">
   </a>
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-green">
+  <img src="https://img.shields.io/badge/Location-Hydrabad%2C%20India-green">
 </p>
 
 ---
