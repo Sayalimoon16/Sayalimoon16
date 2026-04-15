@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayali Moon</h1>
-<h3 align="center">AI/Data Science Intern | Machine Learning | NLP | Computer Vision</h3>
+<h3 align="center">AI/Data Science Intern | Machine Learning | NLP | Computer Vision | GenAI</h3>
 
 <p align="center">
   <a href="https://github.com/Sayalimoon16">
@@ -15,10 +15,10 @@
 
 ## 👩‍💻 About Me
 
-- 🤖 AI/Data Science Intern with hands-on experience in real-world ML projects  
+- 🤖 AI/Data Science Intern with hands-on experience in ML & GenAI projects  
 - 📊 Worked on **large-scale datasets (2M+ records)**  
-- 🚀 Built and deployed ML models using Flask & Streamlit  
-- 🧠 Strong in EDA, Feature Engineering, Model Evaluation & Optimization  
+- 🚀 Built end-to-end AI systems using Flask, Streamlit & FastAPI  
+- 🧠 Strong in EDA, Feature Engineering, Model Evaluation & Deployment  
 
 ---
 
@@ -64,7 +64,7 @@
 ### 🐍 Python Development
 - Automation scripts  
 - Data pipelines  
-- API development  
+- API development (FastAPI)  
 - Backend services  
 - Tool building  
 
@@ -73,7 +73,7 @@
 
 ### ⚙️ Deployment & Tools
 - Flask & Streamlit  
-- Model deployment  
+- FastAPI applications  
 - Git & version control  
 - Jupyter Notebook  
 
@@ -82,7 +82,7 @@
 
 ### 📊 Data Projects
 - Large dataset handling  
-- Real-world ML systems  
+- GenAI & RAG systems  
 - Dashboard development  
 - Business insights  
 
@@ -94,6 +94,16 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 AI-Powered RAG System (Legal & Medical Q&A)
+- Built **GenAI + RAG system** for document-based question answering  
+- Used embeddings, vector databases & LLM pipelines  
+- Implemented retrieval + generation workflow for accurate responses  
+
+### 📊 AI Business Intelligence System
+- Built AI system for **data analysis, insights & decision-making**  
+- Integrated ML models for prediction and trend analysis  
+- Developed modular architecture with real-time outputs  
+
 ### 🧠 AI News Event Clustering & Timeline Builder
 - Processed **2M+ news articles dataset**  
 - NLP preprocessing + MiniBatch KMeans clustering  
@@ -104,32 +114,26 @@
 - Bounding boxes, labels & confidence scores  
 - Optimized inference performance  
 
-### 🌾 Rice Leaf Disease Detection (CNN)
-- Image preprocessing & augmentation  
-- CNN-based multi-class classification  
-- Improved model accuracy through tuning  
-
-### 🫁 Lung Cancer Detection (ML)
-- EDA, preprocessing & feature engineering  
-- Trained Logistic Regression, Random Forest & SVM  
-- Evaluated using ROC-AUC, Precision & Recall  
-
 ---
 
 ## 🛠️ Tech Stack
 
-Python | SQL | Machine Learning | Deep Learning | NLP | Computer Vision  
-TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | OpenCV  
-Flask | Streamlit | Git | Jupyter Notebook  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,tensorflow,pytorch,opencv,sklearn,flask,fastapi,git,github,vscode,linux" />
+</p>
 
 ---
 
 ## 📜 Certifications
 
+- Certified Data Scientist – IABAC (2026–2029)  
+- Artificial Intelligence Engineer – NASSCOM FutureSkills Prime (2026)  
+- AI Expert (AIE) – Datamites (2025–2026)  
 - Artificial Intelligence Expert – IABAC (2026)  
 - Data Science Foundation – IABAC (2026)  
-- Zoho Creator Workshop  
-- Full Stack Development  
+- ERP Training Completion Certificate (2026)  
+- Zoho Creator Workshop (2024)  
+- Full Stack Development (2023)  
 
 ---
 
