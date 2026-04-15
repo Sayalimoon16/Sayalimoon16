@@ -1,12 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sayali Moon</h1>
 <h3 align="center">AI/Data Science Intern | Machine Learning | NLP | Computer Vision</h3>
 
+<p align="center">
+  <a href="https://github.com/Sayalimoon16">
+    <img src="https://img.shields.io/badge/GitHub-Sayalimoon16-black?logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/sayali-moon">
+    <img src="https://img.shields.io/badge/LinkedIn-Sayali%20Moon-blue?logo=linkedin">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-green">
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
-- 🤖 AI/Data Science Intern with hands-on experience in real-world projects  
-- 📊 Worked on large-scale datasets (2M+ records)  
+- 🤖 AI/Data Science Intern with hands-on experience in real-world ML projects  
+- 📊 Worked on **large-scale datasets (2M+ records)**  
 - 🚀 Built and deployed ML models using Flask & Streamlit  
 - 🧠 Strong in EDA, Feature Engineering, Model Evaluation & Optimization  
 
@@ -14,24 +24,39 @@
 
 ## 🚀 What I Do
 
-### 🔹 Machine Learning
-- Model building & evaluation  
-- Feature engineering & hyperparameter tuning  
-- Working with large datasets  
+### 🧠 Machine Learning
+- End-to-end ML pipelines  
+- Model training & evaluation  
+- Feature engineering  
+- Hyperparameter tuning  
+- Model deployment  
 
-### 🔹 Data Analysis
+### 📊 Data Analysis
 - Exploratory Data Analysis (EDA)  
-- Data preprocessing & visualization  
+- Data visualization  
+- Statistical analysis  
+- Data preprocessing  
 - Insight generation  
 
-### 🔹 Deep Learning
-- CNN models  
-- Computer Vision & NLP applications  
+### 🤖 Deep Learning
+- Neural networks  
+- CNN, Transformers  
+- Transfer learning  
 - Model optimization  
+- Computer vision & NLP  
 
-### 🔹 Deployment
+### 🐍 Python Development
+- Automation scripts  
+- Data pipelines  
+- API development  
+- Backend services  
+- Tool building  
+
+### ⚙️ Deployment & Tools
 - Flask & Streamlit apps  
-- End-to-end ML systems  
+- Version control (Git)  
+- Model deployment  
+- Jupyter Notebook  
 
 ---
 
@@ -40,7 +65,7 @@
 ### 🧠 AI News Event Clustering & Timeline Builder
 - Processed **2M+ news articles dataset**  
 - NLP preprocessing + MiniBatch KMeans clustering  
-- Built interactive Streamlit dashboard  
+- Built interactive **Streamlit dashboard**  
 
 ### 🎯 YOLOv8 Real-Time Object Detection
 - Real-time object detection using webcam  
