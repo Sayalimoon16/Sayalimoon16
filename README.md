@@ -1,59 +1,69 @@
 <h1 align="center">Hi 👋, I'm Sayali Moon</h1>
-<h3 align="center">AI & Data Science Enthusiast | Machine Learning | Deep Learning | Computer Vision</h3>
-
-<p align="center">
-  <a href="https://github.com/Sayalimoon16">
-    <img src="https://img.shields.io/badge/GitHub-Sayalimoon16-black?logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/sayali-moon">
-    <img src="https://img.shields.io/badge/LinkedIn-Sayali%20Moon-blue?logo=linkedin">
-  </a>
-  <img src="https://img.shields.io/badge/Location-Hydrabad%2C%20India-green">
-</p>
+<h3 align="center">AI/Data Science Intern | Machine Learning | NLP | Computer Vision</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Technology Graduate  
-- 🤖 AI & Data Science Practitioner  
-- 🧠 Skilled in Machine Learning, Deep Learning & Computer Vision  
-- 🚀 Experience building ML/DL models & deploying apps using Flask & Streamlit  
-- 📊 Strong in EDA, Feature Engineering & Model Evaluation  
+- 🤖 AI/Data Science Intern with hands-on experience in real-world projects  
+- 📊 Worked on large-scale datasets (2M+ records)  
+- 🚀 Built and deployed ML models using Flask & Streamlit  
+- 🧠 Strong in EDA, Feature Engineering, Model Evaluation & Optimization  
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I Do
 
-**Languages:** Python, SQL  
-**ML/DL:** Machine Learning, Deep Learning, CNN, YOLOv8, NLP, Computer Vision  
-**Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV  
-**Tools:** Jupyter, Git, Flask, Streamlit, Google Colab  
-**Concepts:** EDA, Feature Engineering, Model Evaluation, Deployment  
+### 🔹 Machine Learning
+- Model building & evaluation  
+- Feature engineering & hyperparameter tuning  
+- Working with large datasets  
+
+### 🔹 Data Analysis
+- Exploratory Data Analysis (EDA)  
+- Data preprocessing & visualization  
+- Insight generation  
+
+### 🔹 Deep Learning
+- CNN models  
+- Computer Vision & NLP applications  
+- Model optimization  
+
+### 🔹 Deployment
+- Flask & Streamlit apps  
+- End-to-end ML systems  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 AI News Event Clustering & Timeline Builder
-- Processed 2M+ news articles for automated event detection  
+- Processed **2M+ news articles dataset**  
 - NLP preprocessing + MiniBatch KMeans clustering  
-- Built Streamlit dashboard with timelines  
-
-### 🫁 Lung Cancer Detection
-- Medical dataset preprocessing & feature engineering  
-- Trained Logistic Regression, Random Forest, SVM  
-- Evaluated with ROC-AUC, Precision, Recall  
+- Built interactive Streamlit dashboard  
 
 ### 🎯 YOLOv8 Real-Time Object Detection
-- Real-time detection via webcam  
-- Bounding boxes & confidence scores  
-- Optimized inference speed  
+- Real-time object detection using webcam  
+- Bounding boxes, labels & confidence scores  
+- Optimized inference performance  
 
 ### 🌾 Rice Leaf Disease Detection (CNN)
 - Image preprocessing & augmentation  
-- CNN multi-class classification  
-- Accuracy improvement via tuning  
+- CNN-based multi-class classification  
+- Improved model accuracy through tuning  
+
+### 🫁 Lung Cancer Detection (ML)
+- EDA, preprocessing & feature engineering  
+- Trained Logistic Regression, Random Forest & SVM  
+- Evaluated using ROC-AUC, Precision & Recall  
+
+---
+
+## 🛠️ Tech Stack
+
+Python | SQL | Machine Learning | Deep Learning | NLP | Computer Vision  
+TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | OpenCV  
+Flask | Streamlit | Git | Jupyter Notebook  
 
 ---
 
@@ -63,7 +73,6 @@
 - Data Science Foundation – IABAC (2026)  
 - Zoho Creator Workshop  
 - Full Stack Development  
-- Coursera: Python & Databases  
 
 ---
 
@@ -71,7 +80,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sayali-moon  
 - 💻 GitHub: https://github.com/Sayalimoon16  
-- 📧 Email: sayali.moon@gmail.com  
+- 📧 Email: sayalimoon34@gmail.com  
 
 ---
 
@@ -87,4 +96,4 @@
 
 ---
 
-⭐ From [Sayali Moon](https://github.com/Sayalimoon16)
+⭐ If you find my work interesting, feel free to explore and connect!
